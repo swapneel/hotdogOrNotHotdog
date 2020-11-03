@@ -1,6 +1,6 @@
 # hotdogOrNotHotdog
 
-Built with Google CodeLab Tutorial: http://bit.ly/2qsQmsl using Google's Inception Model.
+Built using Google's Inception training model using Transfer Learning.
 
 Uses TensorFlow to train an image classifier with a Convolutaional Neural Network built on a Docker container.
 
